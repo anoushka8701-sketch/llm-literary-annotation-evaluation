@@ -1,0 +1,7 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.env
+data/mexico_city_blues_choruses.csv
+outputs/annotations_checkpoint.csv
