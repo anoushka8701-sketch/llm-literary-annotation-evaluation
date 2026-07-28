@@ -62,6 +62,11 @@ requirements.txt
 - [LLM annotation pipeline](notebooks/01_llm_annotation_pipeline.ipynb)
 - [Model evaluation and analysis](notebooks/02_model_evaluation.ipynb)
 
+## Detailed Analysis
+
+Read the [full project analysis](ANALYSIS.md) for the error patterns,
+limitations and implications for human-in-the-loop AI evaluation.
+
 ## Tools
 
 Python, pandas, scikit-learn, Matplotlib, Seaborn, Jupyter, Ollama and
@@ -94,4 +99,3 @@ Completed for the MA Digital Humanities at King's College London and
 awarded Distinction. Written feedback identified the project as making a
 genuine contribution to LLM-supported literary annotation, with potential
 for development into a conference or journal submission.
-
